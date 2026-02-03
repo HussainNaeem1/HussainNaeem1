@@ -1,9 +1,7 @@
 # Hi there 👋
 ## Greetings
 
-**HussainNaeem1/HussainNaeem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**HussainNaeem1/HussainNaeem1** 
 
 - 🔭 I’m currently studying Data Sceince and AI in the first year at Leeds Beckett University 
 - 🌱 I’m currently learning computer programming
