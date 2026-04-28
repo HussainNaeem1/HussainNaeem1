@@ -13,3 +13,6 @@ Abit about me:
 - I tend trying new things (sports, hobbies)
 - Cooking is a comfort hobby of mine
 
+Links:
+
+Linkedin- 
