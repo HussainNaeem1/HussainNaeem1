@@ -8,6 +8,8 @@ In my history i have trialed and tested fileds such as biology, law, team leadin
 
 I have worked many jobs in my past, which contains the ups (being an ice cream vendor) and the downs (supply chain assistant). Through the jobs i have done, i have very much enjoyed the customer service aspects and freedom of problem solving. I do find myself being comfortable in the shoes of a leader also, which was trained through my STLS course, team leading and management courses, my time as a tutor and most importantly through my ACAV (army cadet adult volunteer) training.
 
+Previously, i did a Games Design and Development course which took me through, not only the steps of developing a game with all its intricacies, but also the key attribuites a member of a team is supposed to have to be as coherent with their team as possible. Learning how to use Unreal Engine, blender, photoshop etc., was also a huge learning curve for me as all of them softwares were new territory for me.
+
 Abit about me: 
 - I prefer an adventurous holiday rather than a chill one
 - I like hiking and physical activities
