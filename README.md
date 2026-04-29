@@ -1,7 +1,6 @@
-# Hello
-## Greetings
+# Greetings
 
-**HussainNaeem1/HussainNaeem1** 
+## **HussainNaeem1/HussainNaeem1** 
 
 I am currectly a student at Leeds Beckett University and studying Data Science and AI. I am keen on the innovation of artifical intelligence and the tech industry, including the vast majority of new softwares that are being introduced particularly related to data. The critical thinking & evaluation, problem solving & execution and the organisation & delivery of data are all things i hope to become an expert in as i continue my education.
 
@@ -15,4 +14,4 @@ Abit about me:
 
 Links:
 
-Linkedin- 
+Linkedin- https://www.linkedin.com/in/hussain-naeem-683801363/
